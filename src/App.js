@@ -3,7 +3,7 @@ import {
 BrowserRouter as Router,
 Routes,
 Route,
-link 
+Link 
 } from "react-router-dom";
 import Home from './Home';
 import About from './About';
@@ -15,9 +15,9 @@ function App() {
 return(<Router>
 
   <nav>
-    <link className="link" to='/'>Home</link>
-    <link className="link" to='/About'>About us</link>
-    <link className="link" to='/Contacts'>Contacts us</link>
+    <Link className="link" to='/'>Home</Link>
+    <Link className="link" to='/About'>About us</Link>
+    <Link className="link" to='/Contacts'>Contacts us</Link>
   </nav>
 
   <Routes>

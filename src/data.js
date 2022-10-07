@@ -6,7 +6,7 @@ export const data = [
   
       name: "Party dress",
   
-      searchTerm: "dress",
+      term: "dress",
   
       price: 300.99,
   
@@ -20,7 +20,7 @@ export const data = [
   
       name: "Summer dress",
   
-      searchTerm: "dress",
+      term: "dress",
   
       price: 204.99,
   
@@ -36,7 +36,7 @@ export const data = [
   
       name: "Fancy pants",
   
-      searchTerm: "pants",
+      term: "pants",
   
       price: 199.99,
   
@@ -52,7 +52,7 @@ export const data = [
   
       name: "Jeans",
   
-      searchTerm: "pants",
+      term: "pants",
   
       price: 100.99,
   
@@ -68,7 +68,7 @@ export const data = [
   
       name: "Cute skirt",
   
-      searchTerm: "skirt",
+      term: "skirt",
   
       price: 300.99,
   
@@ -82,7 +82,7 @@ export const data = [
   
       name: "Beauty",
   
-      searchTerm: "skirt",
+      term: "skirt",
   
       price: 278.99,
   
@@ -96,7 +96,7 @@ export const data = [
   
       name: "Business meeting",
   
-      searchTerm: "shirt",
+      term: "shirt",
   
       price: 285.99,
   
@@ -110,7 +110,7 @@ export const data = [
   
       name: "Lunch with friends",
   
-      searchTerm: "shirt",
+      term: "shirt",
   
       price: 284,
   
@@ -124,7 +124,7 @@ export const data = [
   
       name: "Carrie shoes",
   
-      searchTerm: "shoes",
+      term: "shoes",
   
       price: 305.99,
   
@@ -138,7 +138,7 @@ export const data = [
   
       name: "Amanda shoes",
   
-      searchTerm: "shoes",
+      term: "shoes",
   
       price: 305.99,
   
@@ -152,7 +152,7 @@ export const data = [
   
       name: "Miranda shoes",
   
-      searchTerm: "shoes",
+      term: "shoes",
   
       price: 305.99,
   
@@ -166,7 +166,7 @@ export const data = [
   
       name: "Cute dress",
   
-      searchTerm: "dress",
+      term: "dress",
   
       price: 305.99,
   
@@ -180,7 +180,7 @@ export const data = [
   
       name: "Pants",
   
-      searchTerm: "pants",
+      term: "pants",
   
       price: 100.99,
   
@@ -194,7 +194,7 @@ export const data = [
   
       name: "Lunch with friends",
   
-      searchTerm: "skirt",
+      term: "skirt",
   
       price: 284,
   
@@ -208,7 +208,7 @@ export const data = [
   
       name: "Lunch with friends",
   
-      searchTerm: "shirt",
+      term: "shirt",
   
       price: 284.99,
   
