@@ -7,10 +7,10 @@ import Buttons from './Buttons';
 
 function Home() {
 
-    const [clothes, setClothes] = useState(data);
-    const chosenClothes = (term) => {
-    const newClothes = data.filter(element => element.term === term);
-    setClothes(newClothes);
+    const [clothes, setClothes]=useState(data)
+    const chosenClothes = (Searchterm) => {
+    const newClothes = data.filter(element => element.term === Searchterm)
+    setClothes(newClothes)
     }
 
     return (

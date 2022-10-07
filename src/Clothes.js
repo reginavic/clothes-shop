@@ -2,7 +2,7 @@ function Clothes ({itemsForSale}) {
 
     return (<div className='products'>
         {itemsForSale.map((element => {
-        const {id, name, term, price, image } = element;
+        const {id, name, price, image } = element;
 
     return (<div key={ id } className='product-card'>
             <img src={ image } width="350px" height="450px" alt="Clothes" />
